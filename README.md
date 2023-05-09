@@ -1,2 +1,4 @@
 # Instagram--clone
-for know ui
+
+
+just code
